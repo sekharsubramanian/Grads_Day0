@@ -1,1 +1,1 @@
-print("Hello Hsbc, I am Aravind. Excited for my new job!!")!
+print("Hello Hsbc, I am Aravind. Excited for my new job!!")
